@@ -1,3 +1,11 @@
-* @laurentlb @brandjon @c-parsons
+* @gregestren
+
+AUTHORS  @sventiffe @philwo
 android/ @ahumesky @jin
-rules/starlark-configurations @juliexxia @gregce
+cpp-tutorial @oquenchil
+java-maven/ @jin
+java-tutorial/ @jin
+make-variables @bazelbuild/configurability
+flags-parsing-tutorial @bazelbuild/configurability
+rules/starlark-configurations @bazelbuild/configurability
+third-party-dependencies @meteorcloudy
